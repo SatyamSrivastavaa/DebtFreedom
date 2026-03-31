@@ -1,0 +1,71 @@
+ ---                                                                                                                                              
+  Debt Freedom — Your Personal Debt Payoff Companion
+                                                                                                                                                   
+  Debt Freedom is an iOS app built for everyday Indians who want to take control of their finances and become debt-free. No sign-ups, no servers —
+  everything stays on your device.                                                                                                                 
+                                                                                                                                                 
+  What It Does?                                                                                                                                    
+                                                                                                                                                 
+  You enter your income, expenses, loans, and assets. The app analyzes your financial health and generates a personalized month-by-month roadmap to
+   pay off all your debt using proven strategies.                                                                                                
+                                                                                                                                                   
+  How It Works?                                                                                                                                    
+   
+  1. Financial Health Score                                                                                                                        
+  The app calculates a score (5–95) based on your surplus ratio, loan risk, and interest rates. It tells you whether your situation is Critical, 
+  Stressed, Tight, or Manageable — and exactly why.                                                                                                
+                                                                                                                                                 
+  2. Smart Debt Payoff Roadmap                                                                                                                     
+  Using the Avalanche method, the app targets your most expensive debt first:                                                                    
+  - Informal/moneylender loans (highest risk) → paid first                                                                                         
+  - Credit card outstanding → paid next                                                                                                            
+  - Then remaining loans sorted by interest rate (highest first)                                                                                   
+                                                                                                                                                   
+  As each loan closes, its freed EMI "snowballs" into the next target — accelerating your payoff.                                                  
+                                                                                                                                                   
+  3. Emergency Fund Tracking                                                                                                                       
+  The app calculates how much emergency savings you need based on your employment type, dependents, and health insurance status. It splits your    
+  surplus 50/50 between debt payoff and building your safety net until your fund is complete.                                                      
+                                                                                                                                                 
+  4. SIP Smart Pause                                                                                                                               
+  If you have a monthly SIP (mutual fund investment) but also carry debt above 10% interest, the app recommends pausing the SIP and redirecting  
+  that money to clear expensive debt first. Once high-interest debt is gone, your SIP resumes automatically — shown as a milestone in your roadmap.
+                                                                                                                                                 
+  Example:                                                                                                                                         
+                                                                                                                                                 
+  Harsh, 28, Contractual Employee, Ranchi                                                                                                          
+  - Salary: ₹28,000/month                                                                                                                        
+  - Expenses: ₹12,000/month                                                                                                                        
+  - Loans: Moneylender (₹50K @ 48%), Bajaj EMI Card (₹30K @ 18%), Education Loan (₹1.2L @ 8.5%)                                                  
+  - Savings: ₹18,000                                                                                                                               
+                                                                                                                                                   
+  What the app tells him? :                                                                                                                          
+  - Health Score: Critical — negative pressure from moneylender debt                                                                               
+  - Emergency Fund: ₹1.4L target, only ₹18K saved (0.77 months coverage)                                                                           
+  - Roadmap: Moneylender closes by Month 5, Bajaj by Month 9, Education loan by Month 28                                                           
+  - Each closure frees up EMI that speeds up the next payoff                                                                                       
+                                                                                                                                                   
+  Neha, 34, Government Employee, Jharkhand                                                                                                         
+  - Salary: ₹65,000/month                                                                                                                          
+  - Loans: SBI Personal (₹4L @ 12%), Gold Loan (₹1.5L @ 10%)                                                                                       
+  - Gold: ₹5,00,000 | SIP: ₹10,000/month                                                                                                           
+  - Health Insurance: ₹3L coverage                                                                                                                 
+                                                                                                                                                   
+  What the app tells her? :                                                                                                                          
+  - Health Score: Manageable — stable government job, positive surplus                                                                             
+  - Emergency Fund: Good (5.3 months coverage from gold + savings), but medical buffer added since insurance is below ₹5L                          
+  - SIP paused temporarily — both loans are above 10%, so ₹10K/month redirected to debt                                                            
+  - Roadmap: Gold loan clears by Month 8 → SIP resumes → SBI clears by Month 18                                                                    
+                                                                                                                                                   
+  Key Features                                                                                                                                     
+                                                                                                                                                   
+  - Completely offline — no account needed, all data stored locally on your phone                                                                  
+  - Indian number formatting — amounts displayed as ₹1,40,400 (lakh/crore system)                                                                  
+  - Accessible — VoiceOver support, Dynamic Type, 44×44pt tap targets                                                                              
+  - Avalanche + Snowball hybrid — mathematically optimal payoff order with motivating milestone celebrations                                       
+  - 120-month simulation — projects your entire debt-free journey with monthly breakdowns                                                          
+  - Insurance-aware — health insurance status affects your emergency fund target                                                                   
+  - Underwater loan detection — flags loans where your EMI doesn't even cover monthly interest                                                     
+                                                                                                                                                   
+  ---                                                                                                                                              
+  Built with SwiftUI for iOS 17+.   
